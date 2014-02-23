@@ -2,3 +2,4 @@ plugin.description: Add download, upload speed to titlebar.
 plugin.author: SanKen
 plugin.version: 0.1
 plugin.help: http://forums.rutorrent.org/index.php?topic=1328.0
+plugin.runlevel 11
